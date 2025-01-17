@@ -1,0 +1,15 @@
+/Users/domanhminh25/Projects/LaptrinhWeb/LaptrinhWeb/bin/Debug/net7.0/LaptrinhWeb
+/Users/domanhminh25/Projects/LaptrinhWeb/LaptrinhWeb/bin/Debug/net7.0/LaptrinhWeb.deps.json
+/Users/domanhminh25/Projects/LaptrinhWeb/LaptrinhWeb/bin/Debug/net7.0/LaptrinhWeb.runtimeconfig.json
+/Users/domanhminh25/Projects/LaptrinhWeb/LaptrinhWeb/bin/Debug/net7.0/LaptrinhWeb.dll
+/Users/domanhminh25/Projects/LaptrinhWeb/LaptrinhWeb/bin/Debug/net7.0/LaptrinhWeb.pdb
+/Users/domanhminh25/Projects/LaptrinhWeb/LaptrinhWeb/obj/Debug/net7.0/LaptrinhWeb.csproj.AssemblyReference.cache
+/Users/domanhminh25/Projects/LaptrinhWeb/LaptrinhWeb/obj/Debug/net7.0/LaptrinhWeb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/domanhminh25/Projects/LaptrinhWeb/LaptrinhWeb/obj/Debug/net7.0/LaptrinhWeb.AssemblyInfoInputs.cache
+/Users/domanhminh25/Projects/LaptrinhWeb/LaptrinhWeb/obj/Debug/net7.0/LaptrinhWeb.AssemblyInfo.cs
+/Users/domanhminh25/Projects/LaptrinhWeb/LaptrinhWeb/obj/Debug/net7.0/LaptrinhWeb.csproj.CoreCompileInputs.cache
+/Users/domanhminh25/Projects/LaptrinhWeb/LaptrinhWeb/obj/Debug/net7.0/LaptrinhWeb.dll
+/Users/domanhminh25/Projects/LaptrinhWeb/LaptrinhWeb/obj/Debug/net7.0/refint/LaptrinhWeb.dll
+/Users/domanhminh25/Projects/LaptrinhWeb/LaptrinhWeb/obj/Debug/net7.0/LaptrinhWeb.pdb
+/Users/domanhminh25/Projects/LaptrinhWeb/LaptrinhWeb/obj/Debug/net7.0/LaptrinhWeb.genruntimeconfig.cache
+/Users/domanhminh25/Projects/LaptrinhWeb/LaptrinhWeb/obj/Debug/net7.0/ref/LaptrinhWeb.dll
